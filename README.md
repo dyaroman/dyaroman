@@ -31,3 +31,8 @@ across a 500+ site portfolio. Features advanced filtering, sorting, and a custom
 
 → [View live demo](https://dyaroman.github.io/wla-react/)
 
+### [WLA API (Supabase)](https://github.com/dyaroman/wla-api-supabase)
+
+Serverless backend for the Websites List App – a Supabase Edge Function
+built with Hono that manages website collections, commit metadata,
+and column definitions with RLS-protected PostgreSQL storage.
