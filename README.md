@@ -42,3 +42,12 @@ and column definitions with RLS-protected PostgreSQL storage.
 End-to-end test suite for the Websites List App – 20 scenarios covering
 search, filtering, pagination, keyboard shortcuts, clipboard, theming,
 and URL state. Built with CodeceptJS v4 and Playwright.
+
+### [WLA AQA](https://github.com/dyaroman/wla-aqa)
+
+Test results dashboard for the WLA E2E suite – displays pass/fail/skipped
+counts, failure details with screenshots, and a build history browser.
+Built with Vue 3, Pinia, and Vite. Results are published automatically
+via GitHub Actions on every test run.
+
+→ [View dashboard](https://dyaroman.github.io/wla-aqa/)
