@@ -36,3 +36,9 @@ across a 500+ site portfolio. Features advanced filtering, sorting, and a custom
 Serverless backend for the Websites List App – a Supabase Edge Function
 built with Hono that manages website collections, commit metadata,
 and column definitions with RLS-protected PostgreSQL storage.
+
+### [WLA E2E Tests](https://github.com/dyaroman/wla-e2e)
+
+End-to-end test suite for the Websites List App – 20 scenarios covering
+search, filtering, pagination, keyboard shortcuts, clipboard, theming,
+and URL state. Built with CodeceptJS v4 and Playwright.
