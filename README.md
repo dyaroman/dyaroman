@@ -23,13 +23,22 @@ frontend-first in role and specialization.
 
 ## 🗂️ Projects
 
-### [Websites List App (WLA)](https://github.com/dyaroman/wla-react)
+### [Websites List App (WLA) – React Edition](https://github.com/dyaroman/wla-react)
 
 A management tool for tracking, filtering, and analyzing large collections of websites.
 Built with React 19, Redux, Vite – originally created to solve real operational problems
 across a 500+ site portfolio. Features advanced filtering, sorting, and a custom hotkey system.
 
 → [View live demo](https://dyaroman.github.io/wla-react/)
+
+### [Websites List App (WLA) – Vue Edition](https://github.com/dyaroman/wla-vue)
+
+A Vue 3 + Pinia rewrite of the Websites List App, built to explore Vue while
+reimplementing WLA with new ideas – a command palette, toast notifications,
+quick cell actions, and automatic fresh-data reloads. Intended to eventually
+replace the React edition in production.
+
+→ [View live demo](https://dyaroman.github.io/wla-vue/)
 
 ### [WLA API (Supabase)](https://github.com/dyaroman/wla-api-supabase)
 
